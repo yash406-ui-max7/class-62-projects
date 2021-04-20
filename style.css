@@ -1,0 +1,21 @@
+body{
+ text-align: center;
+background-image: linear-gradient(lightpink,lavender,skyblue);
+}
+#one,#two,#thrid,#fourth,#fifth,#sixth{
+    height: 300px;
+    width: 300x;
+}
+.first{
+    width: 700px;
+}
+#myCarousel img{
+    width: 50px;
+    margin-top: 35px;
+        
+}
+.carousel-inner{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color:purple;
+}
